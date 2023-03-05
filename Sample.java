@@ -3,7 +3,7 @@ class Sample
 {
 public static void main(String args[])
 {
-String name ="vamsi"
+String name ="vamsi";
 int l=name.length();
 System.out.println(l);
 // /*
